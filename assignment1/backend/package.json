@@ -1,0 +1,24 @@
+{
+    "name": "weather-app-backend",
+    "version": "1.0.0",
+    "description": "Backend API for Weather App Assignment 1",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node --watch index.js"
+    },
+    "keywords": [
+        "weather",
+        "api",
+        "express"
+    ],
+    "author": "Gagandeep Singh",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "axios": "^1.6.2"
+    }
+}
