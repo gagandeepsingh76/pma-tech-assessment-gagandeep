@@ -131,47 +131,6 @@ assignment1/
    - Enter "asdfghjkl" (nonsense) → See error message
    - Deny geolocation permission → See fallback message
 
-## Demo Video Script (1-2 minutes)
-
-### What to Show:
-
-1. **Introduction (10s)**
-   - Show the app running with header and input field
-   - Mention it's a weather app that works with any location type
-
-2. **City Search (20s)**
-   - Type "New Delhi" in the input
-   - Click "Resolve"
-   - If multiple candidates appear, select one
-   - Show current weather card with temperature, icon, details
-   - Show 5-day forecast below
-
-3. **Zip Code Search (15s)**
-   - Clear input
-   - Enter "94040"
-   - Click "Resolve"
-   - Show weather for that location
-
-4. **Coordinates Search (15s)**
-   - Enter coordinates "40.73061,-73.935242"
-   - Click "Resolve"
-   - Show weather for those coordinates
-
-5. **Use My Location (20s)**
-   - Click "Use my location" button
-   - Allow browser permission
-   - Show weather for current location
-
-6. **Info Modal (10s)**
-   - Click "Info" button in footer
-   - Show modal with PM Accelerator link
-   - Close modal
-
-7. **Error Handling (10s)**
-   - Enter invalid text like "xyz123"
-   - Show error message appears gracefully
-
-**Total: ~2 minutes**
 
 ## Features Demonstrated
 
