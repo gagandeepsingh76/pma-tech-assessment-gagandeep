@@ -432,6 +432,19 @@ If OpenWeatherMap API key is not configured, the app runs in demo mode:
 
 This project is created for educational purposes as part of Assignment 2.
 
+
+<img width="1352" height="628" alt="Screenshot 2025-12-02 162036" src="https://github.com/user-attachments/assets/cf7aeb74-f251-468a-b7e6-3dcf170485fb" />
+
+
+<img width="1365" height="628" alt="Screenshot 2025-12-02 162051" src="https://github.com/user-attachments/assets/fa992943-0356-4155-aad6-09a6efc234f0" />
+
+
+<img width="1365" height="629" alt="Screenshot 2025-12-02 162104" src="https://github.com/user-attachments/assets/8d533ede-7dc4-46d2-b91c-bf02da4b87bf" />
+
+
+
+
+
 ---
 
 **Created by Gagandeep Singh**
